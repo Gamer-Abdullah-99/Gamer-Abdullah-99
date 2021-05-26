@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Syed Abdullah Bin Naseer
+- 👀 I’m currently learning Web and App Development From SMIT
