@@ -27,6 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next logo"  />
+  
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/devicon/blob/master/icons/angular/angular-original.svg" height="40" alt="material logo"  />
+  
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg" height="40" alt="material logo"  />
   <img width="12" />
